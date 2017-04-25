@@ -1,0 +1,32 @@
+.test1 {
+    background-color: ghostwhite;
+}
+
+.test2 {
+    background-color: #07789B;
+    font-weight: bold;
+}
+
+.test3 {
+    background-color: lightgreen;
+}
+
+.test4 {
+    background-color: lightsalmon;
+}
+
+.test5 {
+    background-color: lightslategray;
+}
+
+.imageTest {
+    width: 50px;
+}
+
+.scrollTag {
+    overflow: scroll;
+}
+
+.fontWhite {
+    color: white;
+}
